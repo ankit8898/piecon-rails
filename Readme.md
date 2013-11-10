@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/piecon-rails.png)](http://badge.fury.io/rb/piecon-rails)
 # Piecon-Rails
 
 A Ruby wrapper to integrate [Piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon, in your Rails asset pipeline easily.
