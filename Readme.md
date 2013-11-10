@@ -2,7 +2,7 @@
 
 A Ruby wrapper to integrate [Piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon, in your Rails asset pipeline easily.
 
-You can find a Sample Rails Application here.
+You can find a [Sample Rails Application here](http://morning-bayou-5775.herokuapp.com).
 
 ## Installation
 
@@ -14,10 +14,10 @@ Add the gem to the Gemfile:
 
 In your JavaScript manifest (e.g. `application.js`):
 
-    //= require piecon-rails
+    //= require piecon
 
 
-In your `application.html.erb` or `application.html.haml` make sure you include
+In your `application.html.erb` or `application.html.haml` make sure you have
 
     favicon_link_tag 'favicon.ico'
     
